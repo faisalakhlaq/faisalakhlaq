@@ -1,6 +1,7 @@
 - 👋 Hi and welcome, I’m Faisal Akhlaq
-- 👀 I’m interested in software and web development 
-- 🌱 I’m currently working on Python (Django & Flask) and React, Sveltekit
+- 👀 Interested in software and web development 
+- 🌱 I’m currently working on Python (Django & Flask) and Sveltekit
+- Portfolio: https://www.faisalakhlaq.com/
 
 <!---
 faisalakhlaq/faisalakhlaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
