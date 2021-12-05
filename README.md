@@ -1,5 +1,5 @@
 - 👋 Hi and welcome, I’m Faisal Akhlaq
-- 👀 Interested in software and web development 
+- 👀 Interested in software development 
 - 🌱 I’m currently working on Python (Django & Flask) and Sveltekit
 - Portfolio: https://www.faisalakhlaq.com/
 
